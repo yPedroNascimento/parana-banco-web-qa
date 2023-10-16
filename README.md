@@ -16,7 +16,7 @@ Para instalar Robot Framework Libraries utilizadas no projeto executar:
 
 Para executar projeto de testes rodar no terminal:
 ```
-  robot -d ./logs tests/challengingDomTests.robot 
+  robot -d ./logs web/tests/challengingDomTests.robot 
 ```
 
 Arquivo requeriments.txt contém bibliotecas e versões utilizadas no projeto
