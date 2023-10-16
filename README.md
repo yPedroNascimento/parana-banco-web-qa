@@ -1,5 +1,5 @@
-# Case Técnico QA - Parana Banco
-Case técnico realizado para testes web do desafio técnico para vaga de QA da empresa Parana Banco
+# Case Técnico QA - Paraná Banco
+Case técnico realizado para testes web do desafio técnico para vaga de QA da empresa Paraná Banco
 
 Projeto criado com Python + Robot Framework + Libraries.
 
